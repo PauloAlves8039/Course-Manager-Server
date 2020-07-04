@@ -15,5 +15,8 @@ Frontend da aplicação: [Course Manager Angular](https://github.com/PauloAlves8
 - [NodeJs v12.18.1](https://nodejs.org/en/).
 - [Express v4.17.1](https://expressjs.com/pt-br/).
 
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/Course-Manager-Server/blob/master/LICENSE.md)
+
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
